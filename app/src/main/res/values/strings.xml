@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BusSchedule</string>
+    <string-array name="bus_times">
+        <item>06:00 AM - Bus A</item>
+        <item>07:30 AM - Bus B</item>
+        <item>09:00 AM - Bus C</item>
+        <item>11:00 AM - Bus D</item>
+        <item>01:00 PM - Bus E</item>
+        <item>03:00 PM - Bus F</item>
+        <item>05:00 PM - Bus G</item>
+        <item>07:00 PM - Bus H</item>
+        <item>09:00 PM - Bus I</item>
+    </string-array>
+</resources>
